@@ -1,0 +1,13 @@
+/* CSS styles */
+.div{
+  width: 200px;
+  height: 200px;
+  background-color: linear-gradient(aqua, red, yellow, green);
+  box-shadow: 10px 10px 10px blue;
+}
+h1{
+  text-shadow: 10px 10px 10px red;
+}
+hr{
+  color: red;
+}
